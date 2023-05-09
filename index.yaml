@@ -42,7 +42,7 @@ entries:
       in one step.
     digest: f7c06d7e023e34cec63627d99b55e9243d9f26cfc9248ebb188eba206f3891f6
     home: https://github.com/epinio/epinio
-    icon: https://charts.rancher.io/assets/logos/epinio.svg
+    icon: https://raw.githubusercontent.com/fgiudici/rancher-charts/fix_epinio_logo/assets/logos/epinio.svg
     keywords:
     - epinio
     - paas
